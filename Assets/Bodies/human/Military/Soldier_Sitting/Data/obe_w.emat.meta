@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C4DC5E11FF6487B0}Assets/Bodies/human/military/Soldier_Sitting/Data/obe_w.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+ }
+}

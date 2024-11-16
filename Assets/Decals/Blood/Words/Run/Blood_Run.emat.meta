@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{AC6A3FC1B7A3423D}Assets/Decals/Blood/Words/Run/Blood_Run.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+ }
+}

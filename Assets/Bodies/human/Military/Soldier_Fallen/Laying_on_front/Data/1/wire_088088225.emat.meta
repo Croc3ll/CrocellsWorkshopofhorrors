@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4B6941A1745AD575}Assets/Bodies/human/military/Soldier_Fallen/Laying_on_front/Data/1/wire_088088225.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

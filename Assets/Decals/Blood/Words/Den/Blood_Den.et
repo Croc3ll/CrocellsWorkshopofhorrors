@@ -1,0 +1,9 @@
+DecalEntity {
+ ID "60E96DED4CDD55D3"
+ coords 27.119 5.161 174.291
+ angleY -90
+ Flags 1027
+ TerrainOnly 0
+ NearestOnly 1
+ Mat "{E0256BB9E3D9AE83}Assets/Decals/Blood/Words/Den/Blood_Den.emat"
+}

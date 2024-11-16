@@ -1,0 +1,16 @@
+GenericEntity {
+ ID "625F01A6331FDC77"
+ components {
+  MeshObject "{60C450449FCDDAF9}" {
+   Object "{F61AEFBD2EEC81F3}Garbage/Assets/Bottle.xob"
+  }
+  RigidBody "{625F01A6331FDDB7}" {
+   ModelGeometry 1
+   Static 1
+  }
+  RplComponent "{625F01A6331FDDB1}" {
+   Enabled 0
+  }
+ }
+ coords 129.865 1 111.888
+}

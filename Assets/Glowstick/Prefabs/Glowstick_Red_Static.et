@@ -1,0 +1,24 @@
+GenericEntity : "{E55D908CC572A714}Assets/Glowstick/Prefabs/Glowstick_Base.et" {
+ ID "5F206A3DD83007B2"
+ components {
+  InventoryItemComponent "{6206CD2D5CD7CE65}" {
+   Enabled 0
+  }
+  MeshObject "{5F206A3DC3A0B88B}" {
+   Materials {
+    MaterialAssignClass "{6206CD2D579EE3D2}" {
+     SourceMaterial "SurvivalKit_SnapLightBlue"
+     AssignedMaterial "{7BB0800865A39743}Assets/Glowstick/Data/SurvivalKit_SnapLightRed.emat"
+    }
+   }
+  }
+  SCR_FlareEffectComponent "{61FF661F26A88C6D}" {
+   m_aLightData {
+    SCR_BaseLightData "{61FF661F2465AF0F}" {
+     m_vLightColor 1 0 0
+    }
+   }
+  }
+ }
+ coords 31.538 2 155.358
+}

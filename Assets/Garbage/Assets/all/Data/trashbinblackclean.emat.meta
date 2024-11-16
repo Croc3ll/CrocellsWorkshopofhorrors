@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{20743FB20FA2BB01}Assets/Garbage/Assets/all/Data/trashbinblackclean.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

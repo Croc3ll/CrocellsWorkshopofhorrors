@@ -1,0 +1,12 @@
+DecalEntity {
+ ID "60FF4E48147DB70F"
+ coords 9533.508 1.096 2795.148
+ angleX 1.538
+ angleY -162.618
+ angleZ 0.033
+ scale 0.549
+ Flags 525315
+ TerrainOnly 0
+ NearestOnly 1
+ Mat "{AC6A3FC1B7A3423D}Assets/Decals/Blood/Words/Run/Blood_Run.emat"
+}

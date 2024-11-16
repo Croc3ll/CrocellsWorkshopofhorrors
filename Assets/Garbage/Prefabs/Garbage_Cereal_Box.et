@@ -1,0 +1,9 @@
+GenericEntity {
+ ID "626B3D82FB8B6CBE"
+ components {
+  MeshObject "{626B3D830093C37A}" {
+   Object "{2CF1EFAD8D211A1F}Garbage/Assets/all/cereal_box.xob"
+  }
+ }
+ coords 3.622 -2.504 -1.536
+}

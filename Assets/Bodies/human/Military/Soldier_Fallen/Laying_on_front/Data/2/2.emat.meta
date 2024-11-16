@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{62DAB0E8C9C2E4F9}Assets/Bodies/human/military/Soldier_Fallen/Laying_on_front/Data/2/2.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

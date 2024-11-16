@@ -1,0 +1,4 @@
+MatPBRFur {
+ BCRMap "{8ED9F5090830CA30}Assets/Props/Bodies/Animal/Asset/Data/body_BCR.edds"
+ NMOMap "{B6014E9BD14798AE}Assets/Props/Bodies/Animal/Asset/Data/body_NMO.edds"
+}

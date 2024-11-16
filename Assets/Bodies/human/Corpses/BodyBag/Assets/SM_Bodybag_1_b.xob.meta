@@ -1,0 +1,49 @@
+MetaFileClass {
+ Name "{BF557018597DC434}Assets/Bodies/human/Corpses/BodyBag/SM_Bodybag_1_b.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{60FEE9676AB04D9F}" {
+     SourceMaterial "Deadbody1"
+     AssignedMaterial "{744A3AE8406570BD}Assets/Bodies/human/Corpses/BodyBag/Data/Deadbody1.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Bodybag {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Bodybag_COL {
+     LayerPreset "PropFireView"
+     SurfaceProperties {
+      "{DA94EA1EF2914EB7}Common/Materials/Game/flesh.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{60FEE9676B1A0002}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{60FEE9676B1A0782}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{60FEE9676B1A07D1}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{60FEE9676B1A073F}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{60FEE9676B1A071E}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{60FEE9676B1A0778}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

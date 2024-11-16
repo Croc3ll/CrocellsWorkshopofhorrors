@@ -1,0 +1,9 @@
+GenericEntity {
+ ID "626B3D82EE58DB3F"
+ components {
+  MeshObject "{626B3D82F1F431A6}" {
+   Object "{FAED90A66D4812D9}Garbage/Assets/all/Coffee_Cup.xob"
+  }
+ }
+ coords 3.11 -2.229 -2.503
+}

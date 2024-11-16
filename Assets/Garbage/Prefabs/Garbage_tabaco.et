@@ -1,0 +1,15 @@
+GenericEntity : "{2EC0E9B75831D5CC}Assets/Bodies/human/Military/Soldier_Fallen/Laying_on_back/Deadbody_laying_on_back.et" {
+ ID "60C45044F3F5C0B7"
+ components {
+  MeshObject "{60C450449FCDDAF9}" {
+   Object "{332A16A6A34D6A9B}Garbage/Assets/Tobacco.xob"
+   Materials {
+    MaterialAssignClass "{6216F2FE4F58552D}" {
+     SourceMaterial "wire_088088225"
+     AssignedMaterial "{4B6941A1745AD575}Assets/Bodies/human/Military/Soldier_Fallen/Laying_on_front/Data/1/wire_088088225.emat"
+    }
+   }
+  }
+ }
+ coords 120.595 2 138.685
+}

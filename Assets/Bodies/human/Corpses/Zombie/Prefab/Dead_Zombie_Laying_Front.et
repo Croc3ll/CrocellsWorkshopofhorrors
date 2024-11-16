@@ -1,0 +1,10 @@
+GenericEntity : "{9B83CCCCF9AF4BAB}Assets/Props/Bodies/human/Corpses/Zombie/Sitting/Dead_Zombie_Sitting.et" {
+ ID "60FEE96B3A334FCE"
+ components {
+  MeshObject "{60FEE96B3A334F6B}" {
+   Object "{B1BBD4D90A8D5BFB}Assets/Props/Bodies/human/Corpses/Zombie/Sitting/SM_Dead_Man_c.xob"
+  }
+ }
+ coords 28.319 2 167.634
+ angleY -92.347
+}

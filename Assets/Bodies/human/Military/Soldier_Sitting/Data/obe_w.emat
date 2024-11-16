@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{805325CE8636EF51}Assets/Props/Bodies/obe_w_BCR.edds"
+ NMOMap "{B88B9E5C5F41BDCF}Assets/Props/Bodies/obe_w_NMO.edds"
+}

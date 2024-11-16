@@ -1,0 +1,7 @@
+MatPBRDecal {
+ AlphaTest 0.899
+ AllowUserAlphaBias 1
+ BCRMap "{5F95473B52BF4EF4}Assets/Decals/Blood/Alphabets/English_1/C/DefaultMaterial_BCR.edds"
+ OpacityMap "{33831DCD8361ABA1}Assets/Decals/Blood/Alphabets/English_1/C/T_C_O.edds"
+ NMOMap "{674DFCA98BC81C6A}Assets/Decals/Blood/Alphabets/English_1/C/DefaultMaterial_NMO.edds"
+}

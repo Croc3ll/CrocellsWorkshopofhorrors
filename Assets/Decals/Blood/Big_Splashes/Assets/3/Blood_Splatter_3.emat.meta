@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6BC2957DE3674251}Assets/Decals/Blood/Big_Splashes/Assets/3/Blood_Splatter_3.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+ }
+}

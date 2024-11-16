@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B32ED259C35FB1F5}Assets/Decals/Blood/Alphabets/English_1/H/Blood_D_2_2_2_2_2.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+ }
+}

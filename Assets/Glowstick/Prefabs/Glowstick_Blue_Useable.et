@@ -1,0 +1,140 @@
+GenericEntity : "{0DCE9A9A4F31BE1C}Prefabs/Weapons/Core/SmokeGrenade_Base.et" {
+ ID "51FC8327BE43FED2"
+ components {
+  SoundComponent "{57227A5D228316FB}" {
+   Filenames {
+   }
+  }
+  TimerTriggerComponent "{5934C8C5C9FDF999}" {
+   Enabled 0
+   TIMER 0
+  }
+  GrenadeMoveComponent "{1F80A73ADE35BFF1}" {
+   InitSpeed 30
+   Mass 0.397
+   BallisticTableConfig "{900E362C5B4A1B69}Configs/Weapons/AIBallisiticTables/AIBT_Smoke_RDG2.conf"
+  }
+  InventoryItemComponent "{51FAA3E3CF6F087A}" {
+   Attributes SCR_ItemAttributeCollection "{51FAA3E3C2D19BD4}" {
+    ItemDisplayName WeaponUIInfo "{620B3A52201DC40F}" {
+     Name "#AR-Weapon_RDG2_Name"
+     Description "#AR-Weapon_RDG2_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{620B3A52201DC405}" {
+     Weight 0.43
+     SizeSetupStrategy Manual
+     ItemDimensions 10 10 10
+     ItemVolume 200
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{5284A988FFFB3DAC}" {
+     AnimationIKPose "{DF96CCB6ADFD8139}Assets/Weapons/Grenades/RDG2/anims/anm/p_rdg2_ik.anm"
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{52D2D341931DB0B8}" {
+      CameraPreset Left
+      CameraOrbitAngles -25 25 0
+      CameraDistanceToItem 1.2
+      FOV 10
+     }
+    }
+    m_bStackable 0
+   }
+  }
+  MeshObject "{51EC93F29BA5F234}" {
+   Object "{93F9CDC2CBBA72FD}Assets/Glowstick/Assets/SurvivalKit_SnapLight.xob"
+  }
+  RigidBody "{0F2AA6AEC948C9D6}" {
+   Mass 0.397
+  }
+  SCR_FlareEffectComponent "{620B3A53825F6643}" {
+   m_aLightData {
+    SCR_BaseLightData "{620B3A537D7D1945}" {
+     m_eLightType POINT
+     m_vLightOffset 0 0.077 0
+     m_vLightColor 0 1 1
+     m_fRadius 3
+     m_fIntensityClipEV -3
+     m_vFlareOffset 0 0 0
+     m_eLightFlags 3
+    }
+   }
+   m_fLV 1
+   m_fDistanceAttenuation 1
+   m_iLightLifetime -1
+  }
+  SCR_WeaponAttachmentsStorageComponent "{620B3A52201DC414}" {
+   Enabled 0
+   Attributes SCR_ItemAttributeCollection "{620B3A52201DC413}" {
+    ItemDisplayName WeaponUIInfo "{620B3A52201DC410}" {
+     Name "#AR-Weapon_RDG2_Name"
+     Description "#AR-Weapon_RDG2_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{620B3A52201DC46F}" {
+     Weight 0.43
+     SizeSetupStrategy Volume
+     ItemVolume 200
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{620B3A52201DC46D}" {
+     IkSettings {
+      ItemIKSettings "{620B3A52201DC468}" {
+       MovementSpeedRange 0 3
+      }
+      ItemIKSettings "{620B3A52201DC466}" {
+       Lowered 1
+       InAds 0
+       OutAds 0
+      }
+      ItemIKSettings "{620B3A52201DC464}" {
+       Jumping 1
+       InAds 0
+       OutAds 0
+      }
+     }
+     AnimationInstance "{4FCBEA45CAEBC9C0}anims/workspaces/player/player_main_1h.asi"
+     AnimInstanceBlendDuration 0.3
+     ExcludeBonesBlend {
+      "RightHandProp"
+     }
+     AnimationIKPose "{DF96CCB6ADFD8139}Assets/Weapons/Grenades/RDG2/anims/anm/p_rdg2_ik.anm"
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{620B3A52201DC461}" {
+      CameraDistanceToItem 1
+      FOV 8
+     }
+    }
+    m_Size SLOT_1x1
+   }
+   StoragePurpose 32
+  }
+  WeaponComponent "{6D23670EA18BF513}" {
+   components {
+    BaseItemAnimationComponent "{620B3A52201DC477}" {
+     AnimGraph "{55A20911FA0F2BC0}Assets/Weapons/Grenades/workspaces/Grenade_RGD2.agr"
+     AnimInstance "{EC8525C4EF9B04A6}Assets/Weapons/Grenades/workspaces/Grenade_RDG2.asi"
+     AnimInjection AnimationAttachmentInfo "{620B3A52201DC472}" {
+      AnimGraph "{55A20911FA0F2BC0}Assets/Weapons/Grenades/workspaces/Grenade_RGD2.agr"
+      AnimInstance "{8024781CF8E3A916}Assets/Weapons/Grenades/workspaces/Player_RDG2.asi"
+      BindingName "Grenade"
+     }
+     BindWithInjection 1
+     MeshVisibilityConfigurations {
+      MeshesVisibilitySwitchConfig "{620B3A52201DC446}" {
+       Event "HidePin"
+       Meshes {
+        "RDG2_topPin"
+       }
+      }
+     }
+    }
+   }
+   SoundInt 1000100
+   UIInfo GrenadeUIInfo "{172367262E10E042}" {
+    m_bShowAmmoTypeText 0
+    m_eAmmoTypeFlags ILLUMINATION
+   }
+  }
+  Hierarchy "{620B3A52201DC45D}" {
+  }
+ }
+}

@@ -1,0 +1,53 @@
+GenericEntity : "{34F74A7DBAD46974}Prefabs/Props/Furniture/LightWall_01.et" {
+ ID "6093E737D8CF46A0"
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Object "{C11D4EB626E7BFB7}Assets/Enviroment_Effects/Lighting/Prefabs/plan.xob"
+  }
+  SCR_EditableEntityComponent "{620752C7CF14FC12}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{620752C735FFD0CB}" {
+    Name "Flickering Light"
+    Description "Flickering Light"
+    m_Image "{20BF7BBB5CFA4178}UI/Textures/EditorPreviews/Auto/Props/Civilian/E_BasketWicker_01.edds"
+    m_aAuthoredLabels {
+     16333316
+    }
+    m_aAutoLabels {
+     16333316 121
+    }
+   }
+   m_bAutoRegister ALWAYS
+   m_Flags 769
+  }
+  SCR_FlareEffectComponent "{62074B13A906922B}" {
+   m_aLightData {
+    SCR_BaseLightData "{62074B13A70C7592}" {
+     m_eLightType POINT
+     m_vLightOffset 0.004 -0.049 0.513
+     m_fConeAngle 90
+     m_fRadius 10
+     m_fIntensityClipEV -1
+     m_vFlareOffset 0 0 0
+     m_eLightFlags 3
+    }
+   }
+   m_fLV 2
+   m_fDistanceAttenuation 1
+   m_iLightLifetime -1
+  }
+  SCR_PreviewEntityComponent "{620752C77667C8E4}" {
+   m_PreviewPrefab "{70F194BA053B8509}Assets/Enviroment_Effects/Lighting/GM_Placeable/Flickering_light_GM.et"
+   m_aEntries {
+    SCR_BasePreviewEntry "{620752C7485D19D3}" {
+     m_Mesh "{70F194BA053B8509}Assets/Enviroment_Effects/Lighting/GM_Placeable/Flickering_light_GM.et"
+     m_Flags 265
+     m_Shape 2147483647
+    }
+   }
+  }
+  RplComponent "{5624A88DC2D9928D}" {
+   Enabled 1
+  }
+ }
+ coords 0 0.94 0
+}

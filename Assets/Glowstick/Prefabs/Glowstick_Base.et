@@ -1,0 +1,28 @@
+GenericEntity : "{DFF75267035361F9}Assets/Props/Powerbank/Powerbank.et" {
+ ID "5F206A3DD83007B2"
+ components {
+  MeshObject "{5F206A3DC3A0B88B}" {
+   Object "{93F9CDC2CBBA72FD}Assets/Props/Glowstick/SurvivalKit_SnapLight.xob"
+  }
+  RigidBody "{5F217649A0FA1F6B}" {
+   Static 1
+  }
+  SCR_FlareEffectComponent "{61FF661F26A88C6D}" {
+   m_aLightData {
+    SCR_BaseLightData "{61FF661F2465AF0F}" {
+     m_eLightType POINT
+     m_vLightOffset 0 0.077 0
+     m_vLightColor 0 1 1
+     m_fRadius 3
+     m_fIntensityClipEV -3
+     m_vFlareOffset 0 0 0
+     m_eLightFlags 3
+    }
+   }
+   m_fLV 1
+   m_fDistanceAttenuation 1
+   m_iLightLifetime -1
+  }
+ }
+ coords 113.176 2 121.445
+}

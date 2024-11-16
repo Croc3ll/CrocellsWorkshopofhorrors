@@ -1,0 +1,9 @@
+GenericEntity : "{E7F345885A9ED63D}Assets/Props/Bodies/human/military/Soldier_Fallen/Laying_on_front/Deadbody_Laying_on_front.et" {
+ ID "60C45044F3F5C0B7"
+ components {
+  MeshObject "{60C450449FCDDAF9}" {
+   Object "{EA35B96FDBF25A7D}Assets/Props/Bodies/human/military/Soldier_Fallen/3/untitled.xob"
+  }
+ }
+ coords 126.481 1 111.487
+}

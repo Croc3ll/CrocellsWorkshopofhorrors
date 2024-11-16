@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{D21474DA30D04CC1}Garbage/Assets/all/Data/trashcanworn_BCR.edds"
+ NMOMap "{CB47AEFF424E69AD}Garbage/Assets/all/Data/trashcandirty_NRM.edds"
+}

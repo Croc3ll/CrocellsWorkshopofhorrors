@@ -1,0 +1,10 @@
+DecalEntity {
+ ID "60C75E4223865085"
+ coords 9532.904 0.6 2795.573
+ angleX -90
+ angleZ -179.23
+ Flags 525315
+ TerrainOnly 0
+ NearestOnly 1
+ Mat "{17098854B9963A9B}Assets/Decals/Blood/Big_Splashes/7/Blood_Splatter_7.emat"
+}

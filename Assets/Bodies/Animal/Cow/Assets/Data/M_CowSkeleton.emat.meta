@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{D83A65BD6F470188}Assets/Bodies/Animal/Cow/Assets/Data/M_CowSkeleton.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

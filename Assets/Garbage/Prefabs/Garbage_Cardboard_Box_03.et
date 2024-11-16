@@ -1,0 +1,9 @@
+GenericEntity {
+ ID "626B3D832602E88D"
+ components {
+  MeshObject "{626B3D832AA7FC57}" {
+   Object "{FC4463BC9A1AECFD}Garbage/Assets/all/Cardboard_Opened.xob"
+  }
+ }
+ coords 3.483 -2.192 -2.149
+}

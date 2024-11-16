@@ -1,0 +1,10 @@
+GenericEntity : "{4DEEF1DC6ADEAB05}Assets/Props/Bodies/human/Corpses/Zombie/Sitting/Dead_Zombie_Sitting_Female.et" {
+ ID "60FEE96B3A334FCE"
+ components {
+  MeshObject "{60FEE96B3A334F6B}" {
+   Object "{68520EEEA739417D}Assets/Props/Bodies/human/Corpses/Zombie/Sitting/SM_Dead_Woman_on_ground_1.xob"
+  }
+ }
+ coords 28.189 2 165.043
+ angleY 0
+}

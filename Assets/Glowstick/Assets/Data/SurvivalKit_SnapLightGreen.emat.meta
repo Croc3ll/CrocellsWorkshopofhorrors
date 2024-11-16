@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C9D1827103ADE2D9}Assets/Glowstick/Assets/Data/SurvivalKit_SnapLightGreen.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

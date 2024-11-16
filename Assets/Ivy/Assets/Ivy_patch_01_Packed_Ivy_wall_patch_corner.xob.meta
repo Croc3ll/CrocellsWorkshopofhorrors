@@ -1,0 +1,53 @@
+MetaFileClass {
+ Name "{829409A5705446D4}Assets/Ivy/Assets/Ivy_patch_01_Packed_Ivy_wall_patch_corner.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{61FB665BC6E8D53C}" {
+     SourceMaterial "Nature_Kit_Ivy"
+     AssignedMaterial "{E43EA91E6F11BCDA}Assets/Ivy/Assets/Data/Nature_Kit_Ivy.emat"
+    }
+    MaterialAssignClass "{61FB665BC6E8D526}" {
+     SourceMaterial "Nature_Kit_Ivy_Leaf"
+     AssignedMaterial "{EE7411A50054EC6A}Assets/Ivy/Assets/Data/Nature_Kit_Ivy_Leaf.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Ivy_patch_01 {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Ivy_patch_01_COL {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{A5388C69AEDCBF4A}Common/Materials/Game/grass_lush.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{61FB665BC7E6CA7F}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{61FB665BC7E6C9DC}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{61FB665BC7E6C901}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{61FB665BC7E6C956}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{61FB665BC7E6C8BA}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{61FB665BC7E6C88E}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

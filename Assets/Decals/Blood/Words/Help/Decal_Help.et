@@ -1,0 +1,9 @@
+DecalEntity {
+ ID "60C6601989AFA2C3"
+ coords 0.727 1.302 -0.288
+ angleX 1.521
+ Flags 1027
+ TerrainOnly 0
+ NearestOnly 1
+ Mat "{D2EA6830B5B34618}Assets/Decals/Blood/Words/Help/Help.emat"
+}

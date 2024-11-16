@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{2FFED4EC612ABD8F}Assets/Props/Bodies/human/military/Soilder_Sitting/DeadBody_Pile.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,6 @@
+MatPBRBasic {
+ BlendMode AlphaBlend
+ AllowUserAlphaBias 1
+ BCRMap "{D82381B5771A6609}Garbage/Assets/all/Data/urbangarbage_BCR.edds"
+ NMOMap "{CDB7E69735CDEAD6}Garbage/Assets/all/Data/urbangarbage_NRM.edds"
+}

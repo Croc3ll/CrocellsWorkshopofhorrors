@@ -1,0 +1,47 @@
+$object "" {
+ #version 1.0
+ #tag MergeMeshes "1"
+ #tag Coords "XZY"
+ #tag Scale "1.000000"
+ $materials {
+  $material "AK_Trash_Generic_A" {
+   #UVset 0
+  }
+ }
+ $lod 0 {
+  #lodFactor 0.5
+  $mesh "TrashGeneric_A_Paper_Crumple_Flat_D" {
+   #texCoords 1
+   $faces {
+     0 3 0 1 2
+     0 3 3 4 5
+   }
+   $faceVerts {
+     2 0 0
+     1 1 1
+     0 2 2
+     3 3 3
+     2 0 0
+     0 2 2
+   }
+   $verts {
+     0.094008 0.017 0.13675 0
+     -0.092146 0.01966 0.144788 0
+     -0.087838 0.00184 -0.141253 0
+     0.092201 0.020794 -0.140722 0
+   }
+   $texCoords {
+     0.24748 0.99534
+     0.24938 0.7531
+     0.0091 0.75438
+     0.00897 0.9959
+   }
+   $normals {
+     0.0341 0.9964 -0.0776
+     0.0546 0.996 -0.0708
+     -0.2635 0.9585 -0.1087
+     0.0042 1 -0.0068
+   }
+  }
+ }
+}

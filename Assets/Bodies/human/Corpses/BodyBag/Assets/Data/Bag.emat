@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{48FD76F3CFF614D6}Assets/Bodies/human/Corpses/BodyBag/Data/T_Bag_BCR.edds"
+ NMOMap "{7025CD6116814648}Assets/Bodies/human/Corpses/BodyBag/Data/T_Bag_NMO.edds"
+}

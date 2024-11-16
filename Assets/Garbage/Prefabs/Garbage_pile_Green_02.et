@@ -1,0 +1,15 @@
+GenericEntity : "{2EC0E9B75831D5CC}Assets/Bodies/human/Military/Soldier_Fallen/Laying_on_back/Deadbody_laying_on_back.et" {
+ ID "60C45044F3F5C0B7"
+ components {
+  MeshObject "{60C450449FCDDAF9}" {
+   Object "{7F28F3CF8DCF9074}Garbage/Assets/Trashbag_A02.xob"
+   Materials {
+    MaterialAssignClass "{6216F2FB36989B94}" {
+     SourceMaterial "M_Trashbag"
+     AssignedMaterial "{5ECC3A2DC78C6231}Garbage/Assets/Data/M_Trashbag_green.emat"
+    }
+   }
+  }
+ }
+ coords 120.595 2 138.685
+}

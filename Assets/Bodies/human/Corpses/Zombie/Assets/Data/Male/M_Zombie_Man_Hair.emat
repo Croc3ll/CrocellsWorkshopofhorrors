@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{514B6B94D700463B}Assets/Bodies/human/Corpses/Zombie/Assets/Data/Male/M_Zombie_Man_Hair_BCR.edds"
+ NMOMap "{6993D0060E7714A5}Assets/Bodies/human/Corpses/Zombie/Assets/Data/Male/M_Zombie_Man_Hair_NMO.edds"
+}

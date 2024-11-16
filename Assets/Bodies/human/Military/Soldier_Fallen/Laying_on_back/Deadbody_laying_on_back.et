@@ -1,0 +1,13 @@
+GenericEntity : "{007FC5A2B665E5CC}Assets/Bodies/human/Military/Soldier_Sitting/Deadbody_Sitting.et" {
+ ID "60C45044F3F5C0B7"
+ components {
+  MeshObject "{60C450449FCDDAF9}" {
+   Object "{19F11BBD0A803C97}Assets/Bodies/human/Military/Soldier_Fallen/Laying_on_back/Fallen_soldier_4(with_textures).xob"
+  }
+  RplComponent "{61F8EACBCCAE50DF}" {
+   Enabled 1
+   SpatialRelevancy 0
+  }
+ }
+ coords 128.042 1 111.975
+}

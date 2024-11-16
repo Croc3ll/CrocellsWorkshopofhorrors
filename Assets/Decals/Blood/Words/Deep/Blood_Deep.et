@@ -1,0 +1,10 @@
+DecalEntity {
+ ID "60E773DC7A78503A"
+ coords 27.119 5.179 172.912
+ angleY -90
+ Flags 1027
+ Stretch 1.5
+ TerrainOnly 0
+ NearestOnly 1
+ Mat "{5513E2B9BE9E97F4}Assets/Decals/Blood/Words/Deep/Blood_Deep.emat"
+}

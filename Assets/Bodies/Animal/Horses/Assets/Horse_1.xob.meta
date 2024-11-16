@@ -1,0 +1,56 @@
+MetaFileClass {
+ Name "{E4A6CACB3E14F38D}Assets/Bodies/Animal/Horses/Assets/Horse_1.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{620200B4951267E4}" {
+     SourceMaterial "M_HorseBody"
+     AssignedMaterial "{7BF79465EEAD6E95}Assets/Bodies/Animal/Horses/Assets/Data/M_HorseBody.emat"
+    }
+    MaterialAssignClass "{620200B49512673F}" {
+     SourceMaterial "M_HorseSkeleton"
+     AssignedMaterial "{EBD84A5DBCCC3E4B}Assets/Bodies/Animal/Horses/Assets/Data/M_HorseSkeleton.emat"
+    }
+    MaterialAssignClass "{620200B495126728}" {
+     SourceMaterial "MI_HorseHair"
+     AssignedMaterial "{645CD389468F6CA2}Assets/Bodies/Animal/Horses/Assets/Data/MI_HorseHair.emat"
+    }
+   }
+   MeshParams {
+    MeshParam SM_Horse_Pose {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_SM_Horse_Pose_COL {
+     SurfaceProperties {
+      "{BF74128ABE05E424}MI_COL.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{620200B496998825}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{620200B496998ECA}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{620200B496998E4C}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{620200B496998DD6}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{620200B496998D7C}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{620200B496998D4B}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

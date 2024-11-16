@@ -1,0 +1,13 @@
+MatPBRBasic {
+ Color 0.937 0.937 0.937 1
+ Emissive 1 1 1 0
+ EmissiveLV -2
+ ApplyAlbedoToEmissive 1
+ BCRMap "{1D403CEE212587D8}Assets/Tv/Data/Static/Static_tv.edds" "{AEFDA534AD3618CD}Assets/Tv/Data/Static/Static_tv_02.edds" "{5AF5E2ACA0EB70B9}Assets/Tv/Data/Static/Static_tv_03.edds" "{132DF7B3D22D04D3}Assets/Tv/Data/Static/Static_tv_04.edds" anim( 19 )
+ GlobalMapsUVTransform MatUVTransform "{62C731DF6119FC51}" {
+  TilingU 1.8
+  TilingV 3
+  OffsetU -0.191
+  OffsetV 0.088
+ }
+}

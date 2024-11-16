@@ -1,0 +1,15 @@
+GenericEntity {
+ ID "60C45044F3F5C0B7"
+ components {
+  MeshObject "{60C450449FCDDAF9}" {
+   Object "{F61AEFBD2EEC81F3}Garbage/Assets/Bottle.xob"
+   Materials {
+    MaterialAssignClass "{6216F2FEAEEABA0B}" {
+     SourceMaterial "wire_088088225"
+     AssignedMaterial "{4B6941A1745AD575}Assets/Bodies/human/Military/Soldier_Fallen/Laying_on_front/Data/1/wire_088088225.emat"
+    }
+   }
+  }
+ }
+ coords 120.595 2 138.685
+}

@@ -1,0 +1,32 @@
+GenericEntity : "{3BAAC98D5B04B189}Garbage/Prefabs/Garbage_bottle.et" {
+ ID "60C45044F3F5C0B7"
+ components {
+  MeshObject "{60C450449FCDDAF9}" {
+   Object "{685855F6F916B770}Garbage/Assets/Paper/Balled/untitled.xob"
+   Materials {
+    MaterialAssignClass "{6216F2FEAEEABA0B}" {
+     SourceMaterial "wire_088088225"
+     AssignedMaterial "{4B6941A1745AD575}Assets/Bodies/human/Military/Soldier_Fallen/Laying_on_front/Data/1/wire_088088225.emat"
+    }
+   }
+  }
+  SCR_DestructionMultiPhaseComponent "{6216F2C7C81C0868}" {
+   "Additional hit zones" {
+    SCR_HitZone Default {
+     HZDefault 1
+    }
+   }
+   m_fBaseHealth 1
+   m_DestroySpawnObjects {
+    SCR_DebrisSpawnable "{6216F2C7C1066FCE}" {
+     m_ModelPrefabs +{
+     }
+     m_fMass 1
+     m_eMaterialSoundType PLASTIC_HOLLOW
+    }
+   }
+   m_eMaterialSoundType BREAK_PLASTIC
+  }
+ }
+ coords 120.595 2 138.685
+}

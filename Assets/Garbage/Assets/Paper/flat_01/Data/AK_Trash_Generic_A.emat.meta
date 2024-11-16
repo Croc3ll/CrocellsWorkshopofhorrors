@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{627A8BC0C48C2126}Assets/Garbage/Assets/Paper/flat_01/Data/AK_Trash_Generic_A.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

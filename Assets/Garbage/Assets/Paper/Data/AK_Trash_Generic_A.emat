@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Cull none
+ BCRMap "{A8E0CC8A4BB768E3}Garbage/Assets/Paper/Data/Trash_Generic_A_BCR.edds"
+ OpacityMap "{9F8C489ACF8B9E67}Garbage/Assets/Paper/Data/Trash_Generic_A_Opacity.edds"
+ NMOMap "{BD74ABA80960E43C}Garbage/Assets/Paper/Data/Trash_Generic_A_NRM.edds"
+}

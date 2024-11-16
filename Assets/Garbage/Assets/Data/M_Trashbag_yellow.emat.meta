@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{D87E8DD3E59F4ACC}Assets/Garbage/Assets/Data/M_Trashbag_yellow.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

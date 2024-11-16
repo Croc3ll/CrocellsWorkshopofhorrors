@@ -1,0 +1,193 @@
+GenericEntity {
+ ID "6216F2FCA11EBB7A"
+ coords 118.551 1 121.936
+ angleY 159.234
+ {
+  $grp GenericEntity : "{0D21071D9F0D8673}Garbage/Prefabs/Garbage_can_crushed.et" {
+   {
+    ID "6216F2FCA11A1B17"
+    coords 0.605 0 -0.415
+    angleX -83.268
+    angleY -0.655
+    angleZ -56.519
+   }
+   {
+    ID "6216F2FCA11A872E"
+    coords -1.355 0 1.75
+    angleX -83.268
+    angleY -0.655
+    angleZ -56.519
+   }
+   {
+    ID "6216F2FCA11AAFD3"
+    coords -2.597 0 -0.179
+    angleX -83.268
+    angleY -0.655
+    angleZ -56.519
+   }
+   {
+    ID "6216F2FCA11AEB08"
+    coords 0.554 0 -2.197
+    angleX -83.268
+    angleY -0.655
+    angleZ -56.519
+   }
+   {
+    ID "6216F2FCA11AEB09"
+    coords 2.928 0 1.472
+    angleX -83.268
+    angleY -0.655
+    angleZ -56.519
+   }
+   {
+    ID "6216F2FCA1E53E0E"
+    coords 0.664 0 2.94
+    angleX -83.268
+    angleY -0.655
+    angleZ -130.895
+   }
+   {
+    ID "6216F2FCA1E56000"
+    coords -1.66 0 5.813
+    angleX -83.268
+    angleY -0.655
+    angleZ 11.312
+   }
+   {
+    ID "6216F2FCA1E56007"
+    coords -2.31 0 4.813
+    angleX -83.268
+    angleY -0.655
+    angleZ -133.88
+   }
+   {
+    ID "6216F2FCA1E5E10D"
+    coords 0.033 0 4.728
+    angleX -83.268
+    angleY -0.655
+    angleZ -138.682
+   }
+  }
+  GenericEntity : "{31301A3A4E60FD4D}Garbage/Prefabs/Garbage_can_not_crushed.et" {
+   ID "6216F2FCA11A1B1A"
+   coords 1.047 0 0.989
+   angleX -85.861
+   angleZ 74.421
+  }
+  $grp GenericEntity : "{3BAAC98D5B04B189}Garbage/Prefabs/Garbage_bottle.et" {
+   {
+    ID "6216F2FCA1182732"
+    coords -4.057 0 -0.21
+    angleX 90
+    angleZ -132.809
+   }
+   {
+    ID "6216F2FCA1182733"
+    coords -2.314 0 3.316
+    angleX 89.96
+    angleZ 13.117
+   }
+   {
+    ID "6216F2FCA1186C7E"
+    coords -0.961 0 2.246
+    angleX 89.972
+    angleZ 63.439
+   }
+   {
+    ID "6216F2FCA1187AD4"
+    coords -0.961 0 1.208
+    angleX 89.972
+    angleY -180
+    angleZ 45.542
+   }
+   {
+    ID "6216F2FCA118D018"
+    coords 2.295 0 1.208
+    angleX 90
+    angleZ 68.91
+   }
+   {
+    ID "6216F2FCA118D01F"
+    coords 2.843 0 -1.802
+    angleX 90
+    angleZ -48.201
+   }
+   {
+    ID "6216F2FCA11B5593"
+    coords 2.295 0 -0.291
+    angleX 87.784
+    angleY -97.881
+    angleZ -179.999
+   }
+   {
+    ID "6216F2FCA11ED6EE"
+    coords -0.068 0 0.05
+    angleX 90
+    angleZ -54.038
+   }
+  }
+  $grp GenericEntity : "{B44F871516BF6CA0}Garbage/Prefabs/Garbage_tabaco.et" {
+   {
+    ID "6216F2FCA11A1B18"
+    coords -2.283 0 -0.275
+    angleY -24.457
+   }
+   {
+    ID "6216F2FCA11BDFBA"
+    coords 1.048 0 0.17
+    angleY -55.501
+   }
+   {
+    ID "6216F2FCA11BE02C"
+    coords -2.283 0 1.558
+    angleY 53.032
+   }
+   {
+    ID "6216F2FCA11BE02D"
+    coords 1.048 0 1.558
+    angleY 61.335
+   }
+   {
+    ID "6216F2FCA11EBB73"
+    coords -0.42 0 0.17
+    angleY 83.958
+   }
+  }
+  $grp GenericEntity : "{C34D315127B1B2B8}Garbage/Prefabs/Garbage_coffee_opened.et" {
+   {
+    ID "6216F2FCA1180D6B"
+    coords 0.959 0 -0.476
+    angleZ 90
+   }
+   {
+    ID "6216F2FCA11942DC"
+    coords 1.622 0 -1.415
+    angleY 69.18
+    angleZ 90
+   }
+   {
+    ID "6216F2FCA119BF19"
+    coords -0.716 0 1.187
+    angleZ 90
+   }
+   {
+    ID "6216F2FCA119BF1A"
+    coords -1.418 0 -1.415
+    angleY -33.703
+    angleZ 90
+   }
+   {
+    ID "6216F2FCA11ED6D2"
+    coords 1.622 0 0.365
+    angleY -78.289
+    angleZ 90
+   }
+   {
+    ID "6216F2FCA1E45360"
+    coords 0.062 0 0.365
+    angleY 82.306
+    angleZ 90
+   }
+  }
+ }
+}

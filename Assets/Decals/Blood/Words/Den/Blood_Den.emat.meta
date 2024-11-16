@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E0256BB9E3D9AE83}Assets/Decals/Blood/Words/Den/Blood_Den.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+ }
+}

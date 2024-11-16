@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A121C7A4FE58AD94}Assets/Bodies/Animal/Dog/Assets/Data/fur.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

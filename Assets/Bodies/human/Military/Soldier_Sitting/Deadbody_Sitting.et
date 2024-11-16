@@ -1,0 +1,16 @@
+GenericEntity {
+ ID "60C45044F3F5C0B7"
+ components {
+  MeshObject "{60C450449FCDDAF9}" {
+   Object "{9744F1A34B22CF17}Assets/Bodies/human/Military/Soldier_Sitting/Fallen_soldier_2.xob"
+  }
+  RigidBody "{60C450470F1AEC2B}" {
+   ModelGeometry 1
+   Static 1
+  }
+  RplComponent "{61F8EACBCCAE50DF}" {
+   Enabled 0
+  }
+ }
+ coords 129.865 1 111.888
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4D03FF3A6E0D75E8}Assets/Garbage/Assets/Data/M_Garbage_A01.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

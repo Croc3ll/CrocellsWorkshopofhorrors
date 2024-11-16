@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{81C5675DE9515C92}Garbage/Assets/all/Data/dumpster_BCR.edds"
+ NMOMap "{9451007FAB86D04D}Garbage/Assets/all/Data/dumpster_NRM.edds"
+}

@@ -1,0 +1,9 @@
+GenericEntity : "{F226B9C94B40BED8}Assets/Props/Bodies/Animal/Asset/Dead_Dog_6.et" {
+ ID "60FEE96B3A334FCE"
+ components {
+  MeshObject "{60FEE96B3A334F6B}" {
+   Object "{EA949D52325F0DFE}Assets/Props/Ivy/Assets/Ivy_patch_01_Packed_Ivy_patch_01_V0.xob"
+  }
+ }
+ coords 31.479 2 172.904
+}

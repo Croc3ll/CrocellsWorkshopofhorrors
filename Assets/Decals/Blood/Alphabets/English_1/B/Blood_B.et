@@ -1,0 +1,9 @@
+DecalEntity {
+ ID "61F93B8BA77E3B7F"
+ coords 27.058 3.654 167.21
+ angleY -90
+ Flags 1027
+ TerrainOnly 0
+ NearestOnly 1
+ Mat "{AEA027A29DB0E952}Assets/Decals/Blood/Alphabets/English_1/B/Blood_B.emat"
+}

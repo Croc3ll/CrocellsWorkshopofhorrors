@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{1C43DDCC54B4D81B}Assets/Props/Bodies/human/Corpses/Zombie/Sitting/Dead_Zombie_Laying_On_Back.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

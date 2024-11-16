@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A21346F8BBBC08B7}Assets/Bodies/human/Corpses/Zombie/Prefab/Dead_Zombie__Female_Laying_On_Back2.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

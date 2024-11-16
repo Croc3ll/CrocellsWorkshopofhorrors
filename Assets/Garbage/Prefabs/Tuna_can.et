@@ -1,0 +1,9 @@
+GenericEntity {
+ ID "626B3D826CEF85C7"
+ components {
+  MeshObject "{626B3D8270456ED7}" {
+   Object "{A16E944C50229DE2}Garbage/Assets/all/tuna_can.xob"
+  }
+ }
+ coords 8.119 -7.614 -4.686
+}

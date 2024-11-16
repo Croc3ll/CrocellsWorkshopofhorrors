@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4DEEF1DC6ADEAB05}Assets/Props/Bodies/human/Corpses/Zombie/Sitting/Dead_Zombie_Sitting_Female.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

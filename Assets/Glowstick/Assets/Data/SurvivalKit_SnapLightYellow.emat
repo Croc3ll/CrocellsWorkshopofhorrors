@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Emissive 1 0.749 0 1
+ EmissiveLV 1
+ EmissiveMap "{86AB235E9CC866ED}Assets/Props/Glowstick/Data/SurvivalKit_SnapLightYellow_Emissive.edds"
+ BCRMap "{22E37CFCED518416}Assets/Props/Glowstick/Data/SurvivalKit_SnapLightYellow_Albedo.edds"
+ NMOMap "{4171B2112766C0AF}Assets/Props/Glowstick/Data/SurvivalKit_NMO.edds"
+}

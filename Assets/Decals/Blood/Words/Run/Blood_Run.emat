@@ -1,0 +1,8 @@
+MatPBRDecal {
+ AlphaTest 0.754
+ BlendMode AlphaBlend
+ AllowUserAlphaBias 1
+ BCRMap "{001084472CDC51FB}Assets/Decals/Blood/Words/Run/DefaultMaterial_BCR.edds"
+ OpacityMap "{C51DEBB9A110904B}Assets/Decals/Blood/Words/Run/T_Run_o.edds"
+ NMOMap "{38C83FD5F5AB0365}Assets/Decals/Blood/Words/Run/DefaultMaterial_NMO.edds"
+}

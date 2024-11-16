@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{4685A008845C975F}Assets/Props/Bodies/human/military/Soldier_Fallen/Laying_on_back/Data/Material_0_BCR.edds"
+ NMOMap "{7E5D1B9A5D2BC5C1}Assets/Props/Bodies/human/military/Soldier_Fallen/Laying_on_back/Data/Material_0_NMO.edds"
+}

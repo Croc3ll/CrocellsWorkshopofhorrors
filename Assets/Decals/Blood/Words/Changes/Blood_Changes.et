@@ -1,0 +1,10 @@
+DecalEntity {
+ ID "60E2DB16D526319F"
+ coords 27.287 5.224 171.216
+ angleY -90
+ Flags 1027
+ Stretch 1.5
+ TerrainOnly 0
+ NearestOnly 1
+ Mat "{DAFC6BB50F519C6A}Assets/Decals/Blood/Words/Changes/Blood_Changes.emat"
+}

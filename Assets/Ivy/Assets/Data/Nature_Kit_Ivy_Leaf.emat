@@ -1,0 +1,8 @@
+MatPBRBasic {
+ Cull none
+ AlphaMul 1.023
+ BlendMode AlphaBlend
+ BCRMap "{5FC954288ED5EA77}Assets/Props/Ivy/Assets/Data/Nature_Kit_Ivy_Leaf_BCR.edds"
+ OpacityMap "{583A14FBFF49074E}Assets/Props/Ivy/Assets/Data/Ivy_Leaf_Opacity.edds"
+ NMOMap "{6711EFBA57A2B8E9}Assets/Props/Ivy/Assets/Data/Nature_Kit_Ivy_Leaf_NMO.edds"
+}

@@ -1,0 +1,9 @@
+GenericEntity {
+ ID "626B3D82BDCC851F"
+ components {
+  MeshObject "{626B3D82C7315974}" {
+   Object "{C0C06A6FC975F08A}Garbage/Assets/all/Pizza.xob"
+  }
+ }
+ coords 5.659 -5.481 -4.738
+}

@@ -1,0 +1,8 @@
+GameProject {
+ ID "CrocellsWorkshopofHorrors"
+ GUID "6206C7238516657B"
+ TITLE "Crocells Workshop of Horrors"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

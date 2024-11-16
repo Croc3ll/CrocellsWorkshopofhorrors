@@ -1,0 +1,8 @@
+MatPBRBasic {
+ Emissive 0 1 0.251 1
+ EmissiveLV 1
+ BlendMode None
+ EmissiveMap "{50AD022A01B352C7}Assets/Props/Glowstick/Data/SurvivalKit_SnapLightGreen_Emissive.edds"
+ BCRMap "{C3BF1C915826D9CE}Assets/Props/Glowstick/Data/SurvivalKit_SnapLightGreen_BCR.edds"
+ NMOMap "{4171B2112766C0AF}Assets/Props/Glowstick/Data/SurvivalKit_NMO.edds"
+}

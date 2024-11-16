@@ -1,0 +1,6 @@
+MatPBRBasic {
+ RoughnessScale 1.827
+ MetalnessScale 0
+ BCRMap "{F1F90D89854CF206}Assets/Props/Bodies/human/military/Soldier_Fallen/3/Data/obe_w_BCR.edds"
+ NMOMap "{C921B61B5C3BA098}Assets/Props/Bodies/human/military/Soldier_Fallen/3/Data/obe_w_NMO.edds"
+}

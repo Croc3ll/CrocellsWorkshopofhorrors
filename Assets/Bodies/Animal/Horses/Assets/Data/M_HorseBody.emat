@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{F6E5E875A56E1DE6}Assets/Props/Bodies/Animal/Horses/Assets/Data/M_HorseBody.001_BCR.edds"
+ NMOMap "{CE3D53E77C194F78}Assets/Props/Bodies/Animal/Horses/Assets/Data/M_HorseBody.001_NMO.edds"
+}

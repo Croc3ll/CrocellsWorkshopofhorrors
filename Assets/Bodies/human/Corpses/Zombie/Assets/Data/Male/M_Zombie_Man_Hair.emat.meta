@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E2840C26EDF70E8D}Assets/Bodies/human/Corpses/Zombie/Assets/Data/M_Zombie_Man_Hair.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

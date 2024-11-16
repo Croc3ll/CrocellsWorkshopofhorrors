@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{EB2B0C0746E3F350}Assets/Bodies/human/Corpses/Zombie/Assets/Data/Female/M_Zombie_Woomen_Head.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

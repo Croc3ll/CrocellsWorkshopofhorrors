@@ -1,0 +1,28 @@
+GenericEntity : "{34F74A7DBAD46974}Prefabs/Props/Furniture/LightWall_01.et" {
+ ID "6093E737D8CF46A0"
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Object "{C11D4EB626E7BFB7}Assets/Enviroment_Effects/Lighting/Prefabs/plan.xob"
+  }
+  SCR_FlareEffectComponent "{620752C6C4D63AC4}" {
+   m_aLightData {
+    SCR_BaseLightData "{620752C6C4D63AC6}" {
+     m_eLightType POINT
+     m_vLightOffset 0 0.289 0
+     m_fConeAngle 90
+     m_fRadius 10
+     m_fIntensityClipEV -1
+     m_vFlareOffset 0 0 0
+     m_eLightFlags 3
+    }
+   }
+   m_fLV 2
+   m_fDistanceAttenuation 1
+   m_iLightLifetime -1
+  }
+  RplComponent "{5624A88DC2D9928D}" {
+   Enabled 1
+  }
+ }
+ coords 52.959 4.733 117.189
+}

@@ -1,0 +1,19 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.230295570)
+
+newmtl M_Man_Bottom
+kd 0.215861 0.215861 0.215861
+illum 1
+
+newmtl M_Man_Top
+kd 0.215861 0.215861 0.215861
+illum 1
+
+newmtl M_Man_Head
+kd 0.215861 0.215861 0.215861
+illum 1
+
+newmtl M_Zombie_Man_Hair
+kd 0 0 0
+illum 1
+

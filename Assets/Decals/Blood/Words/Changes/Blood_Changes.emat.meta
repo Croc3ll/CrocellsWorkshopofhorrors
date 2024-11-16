@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{DAFC6BB50F519C6A}Assets/Decals/Blood/Words/Changes/Blood_Changes.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+ }
+}

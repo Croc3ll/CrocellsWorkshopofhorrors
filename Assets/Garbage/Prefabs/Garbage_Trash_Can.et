@@ -1,0 +1,9 @@
+GenericEntity {
+ ID "626B3D828594E197"
+ components {
+  MeshObject "{626B3D8292529C09}" {
+   Object "{4B3F31F547A2AAE8}Garbage/Assets/all/Trash_can.xob"
+  }
+ }
+ coords 8.077 -7.592 -4.863
+}

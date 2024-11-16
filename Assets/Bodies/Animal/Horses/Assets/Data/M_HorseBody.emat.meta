@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7BF79465EEAD6E95}Assets/Bodies/Animal/Horses/Assets/Data/M_HorseBody.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

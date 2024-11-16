@@ -1,0 +1,30 @@
+GenericEntity {
+ ID "62097919A60A589F"
+ components {
+  SCR_EditableDecalComponent "{6209791E2C386654}" {
+   m_UIInfo SCR_EditableCommentUIInfo "{6209791E1A20CDCB}" {
+    Name "Blood Decal"
+    m_aAuthoredLabels {
+     16333316
+    }
+    m_aAutoLabels {
+     16333316 121
+    }
+   }
+   m_bAutoRegister ALWAYS
+   m_bStatic 1
+   m_Flags 769
+  }
+  RplComponent "{62097919EC990337}" {
+  }
+  Hierarchy "{62097919E201BAA0}" {
+  }
+ }
+ {
+  DecalEntity {
+   ID "62097919A60A5899"
+   TerrainOnly 0
+   NearestOnly 1
+  }
+ }
+}

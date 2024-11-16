@@ -1,0 +1,43 @@
+MetaFileClass {
+ Name "{73B997051A0DC66F}Assets/Props/Bodies/Animal/Asset/SM_Dead_Dog_6.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{60FEE95D4130EFC7}" {
+     SourceMaterial "body"
+     AssignedMaterial "{2AB696F85BD885E0}Assets/Props/Bodies/Animal/Asset/Data/body.emat"
+    }
+    MaterialAssignClass "{60FEE95D4130EF36}" {
+     SourceMaterial "fur"
+     AssignedMaterial "{A121C7A4FE58AD94}Assets/Props/Bodies/Animal/Asset/Data/fur.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Dead_Dog_6 {
+    }
+   }
+   Common TXOCommonClass "{60FEE95D4269CE41}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{60FEE95D4269CDDA}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{60FEE95D4269CD22}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{60FEE95D4269CD01}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{60FEE95D4269CD65}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{60FEE95D4269CD5A}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

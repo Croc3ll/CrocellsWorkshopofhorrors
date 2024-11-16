@@ -1,0 +1,7 @@
+MatPBRBasic {
+ BlendMode AlphaBlend
+ AllowUserAlphaBias 1
+ BCRMap "{1469E48FBCBF433B}Assets/Props/Bodies/human/Corpses/Zombie/Data/Female/M_Zombie_Woomen_Hair_BCR.edds"
+ OpacityMap "{20EA9483EB941B97}Assets/Props/Bodies/human/Corpses/Zombie/Data/Female/T_Zombie_Woman_hair_opacity.edds"
+ NMOMap "{2CB15F1D65C811A5}Assets/Props/Bodies/human/Corpses/Zombie/Data/Female/M_Zombie_Woomen_Hair_NMO.edds"
+}

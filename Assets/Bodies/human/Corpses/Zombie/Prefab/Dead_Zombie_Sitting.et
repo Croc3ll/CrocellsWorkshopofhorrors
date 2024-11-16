@@ -1,0 +1,9 @@
+GenericEntity : "{2FFED4EC612ABD8F}Assets/Props/Bodies/human/military/Soldier_Pile/DeadBody_Pile.et" {
+ ID "60FEE96B3A334FCE"
+ components {
+  MeshObject "{60FEE96B3A334F6B}" {
+   Object "{5FAF05C8E3C8851B}Assets/Props/Bodies/human/Corpses/Zombie/Sitting/SM_Dead_Man_a.xob"
+  }
+ }
+ coords 28.436 2 167.02
+}

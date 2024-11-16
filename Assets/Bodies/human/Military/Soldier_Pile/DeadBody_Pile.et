@@ -1,0 +1,19 @@
+GenericEntity {
+ ID "60FEE96B3A334FCE"
+ components {
+  MeshObject "{60FEE96B3A334F6B}" {
+   Object "{2B992FA43ADC3F79}Assets/Bodies/human/Military/Soldier_Pile/Fallen_soldier_pile.xob"
+  }
+  RigidBody "{60FEE96B3A334F5C}" {
+   Active Inactive
+   ResponseIndex "Normal"
+   ModelGeometry 1
+   Static 1
+  }
+  RplComponent "{61F8EACE3F330D02}" {
+   Enabled 0
+  }
+ }
+ coords 130.054 1 109.539
+ Flags 1027
+}

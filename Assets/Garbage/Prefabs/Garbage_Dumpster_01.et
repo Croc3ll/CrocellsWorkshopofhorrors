@@ -1,0 +1,9 @@
+GenericEntity {
+ ID "626B3D82D0F8A82B"
+ components {
+  MeshObject "{626B3D82DCD3EE7B}" {
+   Object "{164E509526AC69E2}Garbage/Assets/all/Dumpster.xob"
+  }
+ }
+ coords 5.608 -5.55 -4.693
+}

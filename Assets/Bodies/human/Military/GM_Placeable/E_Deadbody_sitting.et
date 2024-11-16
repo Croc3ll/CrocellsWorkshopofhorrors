@@ -1,0 +1,42 @@
+GenericEntity : "{D5C3CF5996B43A27}Prefabs/Props/Civilian/BasketWicker_01.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Object "{9744F1A34B22CF17}Assets/Bodies/human/Military/Soldier_Sitting/Fallen_soldier_2.xob"
+  }
+  RigidBody "{5872F0EB7DFB5A9D}" {
+   ResponseIndex "TinyDestructible"
+  }
+  SCR_EditableEntityComponent "{58AAE8059FA4BB87}" : "{996046FE206C699A}Prefabs/Editor/Components/Default_SCR_EditableEntityComponent.ct" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Deadbody sitting"
+    m_aAuthoredLabels {
+     16333316
+    }
+    m_aAutoLabels {
+     16333316 121
+    }
+   }
+  }
+  SCR_PreviewEntityComponent "{58AAE8059FAB58D9}" : "{6CADA7A88A6265FD}Prefabs/Editor/Components/PreviewEntityComponentClass.ct" {
+   m_bRuntime 0
+   m_aEntries {
+    SCR_BasePreviewEntry "{620D679A3A17ED60}" {
+     m_iParentID -1
+     m_Mesh "{9744F1A34B22CF17}Assets/Bodies/human/Military/Soldier_Sitting/Fallen_soldier_2.xob"
+     m_Flags 0
+     m_Shape MESH
+     m_iPivotID ""
+     m_vScale 1 1 1
+     m_vPosition 0 0 0
+     m_vAngles 0 0 0
+    }
+   }
+  }
+  RplComponent "{5624A88DC2D9928D}" {
+   Enabled 1
+  }
+ }
+ coords 0.109 -0.442 1.124
+ angleY 0
+}

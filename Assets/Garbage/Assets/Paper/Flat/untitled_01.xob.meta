@@ -1,0 +1,51 @@
+MetaFileClass {
+ Name "{F87ACA295372E9D3}Assets/Garbage/Assets/Paper/Flat/untitled_01.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6250F8F45317795A}" {
+     SourceMaterial "AK_Trash_Generic_A"
+     AssignedMaterial "{248156293D6C4AAB}Assets/Garbage/Assets/Paper/Data/AK_Trash_Generic_A.emat"
+    }
+   }
+   MeshParams {
+    MeshParam TrashGeneric_A_Paper_Crumple_Flat_C {
+    }
+    MeshParam TrashGeneric_A_Paper_Crumple_Flat_C_COL {
+    }
+   }
+   GeometryParams {
+    GeometryParam UBX_TrashGeneric_A_Paper_Crumple_Flat_C_COL {
+     LayerPreset "FireView"
+     SurfaceProperties {
+      "{AC1A1CDEE58FEE27}Common/Materials/Game/paper.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{6250F8F4531DF017}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{6250F8F4531DF122}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{6250F8F4531DF154}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{6250F8F4531DFE9C}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{6250F8F4531DFECF}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{6250F8F4531DFE36}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

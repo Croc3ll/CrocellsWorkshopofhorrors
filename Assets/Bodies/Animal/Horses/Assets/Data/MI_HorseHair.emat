@@ -1,0 +1,9 @@
+MatPBRBasic {
+ Cull none
+ AlphaTest 0.912
+ BlendMode None
+ AllowUserAlphaBias 1
+ BCRMap "{5D376DA9470F016A}Assets/Props/Bodies/Animal/Horses/Assets/Data/MI_HorseHair.001_BCR.edds"
+ OpacityMap "{AFBF70A7CAADBAF0}Assets/Props/Bodies/Animal/Horses/Assets/Data/Dead_Horse_Hair_Opacity.edds"
+ NMOMap "{65EFD63B9E7853F4}Assets/Props/Bodies/Animal/Horses/Assets/Data/MI_HorseHair.001_NMO.edds"
+}

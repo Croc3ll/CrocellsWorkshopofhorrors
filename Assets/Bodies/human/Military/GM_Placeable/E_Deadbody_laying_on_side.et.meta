@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{FD2CAE8CB278655F}Assets/Bodies/human/Military/GM_Placeable/E_Deadbody_laying_on_back_back21.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

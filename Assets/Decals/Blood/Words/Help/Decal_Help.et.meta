@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6E7E1D5266E7E6EB}Assets/Decals/Blood/Alphabets/English_1/Decal_Help.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

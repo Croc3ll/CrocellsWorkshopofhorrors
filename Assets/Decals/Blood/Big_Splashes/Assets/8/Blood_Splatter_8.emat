@@ -1,0 +1,7 @@
+MatPBRDecal {
+ AlphaTest 0.899
+ AllowUserAlphaBias 1
+ BCRMap "{2983E9331BE10512}Assets/Decals/Blood/Big_Splashes/8/DefaultMaterial_BCR.edds"
+ OpacityMap "{B39F74DAFCBDAEEE}Assets/Decals/Blood/Big_Splashes/8/T_big_splash_8_o.edds"
+ NMOMap "{115B52A1C296578C}Assets/Decals/Blood/Big_Splashes/8/DefaultMaterial_NMO.edds"
+}

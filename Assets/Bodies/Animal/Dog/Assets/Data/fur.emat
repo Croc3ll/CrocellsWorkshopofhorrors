@@ -1,0 +1,9 @@
+MatPBRBasic {
+ ClutterThresholdAngle 54.129
+ AlphaTest 3
+ AlphaMul 1.404
+ BlendMode AlphaBlend
+ BCRMap "{DF79392E3A04AB85}Assets/Props/Bodies/Animal/Asset/Data/fur_BCR.edds"
+ OpacityMap "{5BA14B128BA585EF}Assets/Props/Bodies/Animal/Asset/Data/fur_o.edds"
+ NMOMap "{E7A182BCE373F91B}Assets/Props/Bodies/Animal/Asset/Data/fur_NMO.edds"
+}

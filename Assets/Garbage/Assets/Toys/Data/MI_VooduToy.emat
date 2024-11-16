@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{194925F91BDF1E12}Garbage/Assets/Toys/Data/T_VooduToy_Base_BCR.edds"
+ NMOMap "{3E66FDCF130F628B}Garbage/Assets/Toys/Data/T_VooduToy_NRM.edds"
+}

@@ -1,0 +1,16 @@
+GenericEntity : "{E55D908CC572A714}Assets/Props/Glowstick/Prefabs/Glowstick_Base.et" {
+ ID "5F206A3DD83007B2"
+ components {
+  InventoryItemComponent "{5F21764996F56083}" {
+   Enabled 0
+  }
+  SCR_FlareEffectComponent "{61FF661F26A88C6D}" {
+   m_aLightData {
+    SCR_BaseLightData "{61FF661F2465AF0F}" {
+     m_vLightColor 0 1 1
+    }
+   }
+  }
+ }
+ coords 31.538 2 155.358
+}

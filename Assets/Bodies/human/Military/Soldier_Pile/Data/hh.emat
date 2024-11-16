@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{FB26A960890E1758}Assets/Props/Bodies/human/military/Soilder_Pile/Data/hh_BCR.edds"
+ NMOMap "{C3FE12F2507945C6}Assets/Props/Bodies/human/military/Soilder_Pile/Data/hh_NMO.edds"
+}

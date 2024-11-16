@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{B101F3B8A8D30B12}Assets/Props/Bodies/human/Corpses/Zombie/Data/Female/M_Zombie_Woomen_Head_BCR.edds"
+ NMOMap "{89D9482A71A4598C}Assets/Props/Bodies/human/Corpses/Zombie/Data/Female/M_Zombie_Woomen_Head_NMO.edds"
+}

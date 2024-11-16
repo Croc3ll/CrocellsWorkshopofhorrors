@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3EA1361E32E7FDC4}Assets/Decals/Blood/Alphabets/English_1/A/Blood_A.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+ }
+}

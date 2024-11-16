@@ -1,0 +1,10 @@
+GenericEntity : "{0B26EBEF5E0C4934}Assets/Props/Ivy/Prefabs/Ivy_strip_1.et" {
+ ID "60FEE96B3A334FCE"
+ components {
+  MeshObject "{60FEE96B3A334F6B}" {
+   Object "{9D9EF5DAC6FDE28E}Assets/Props/Ivy/Assets/Ivy_patch_01_Packed_Ivy_patch_01_V1.xob"
+  }
+ }
+ coords 27.466 6.684 159.72
+ angleY -90
+}

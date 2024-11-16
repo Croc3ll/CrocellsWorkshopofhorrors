@@ -1,0 +1,61 @@
+MetaFileClass {
+ Name "{68520EEEA739417D}Assets/Bodies/human/Corpses/Zombie/Sitting/SM_Dead_Woman_on_ground_1.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{60FEE967293C6B06}" {
+     SourceMaterial "M_Zombie_Woomen_Bottom"
+     AssignedMaterial "{FAFC586FFD69D46C}Assets/Bodies/human/Corpses/Zombie/Assets/Data/Female/M_Zombie_Woomen_Bottom.emat"
+    }
+    MaterialAssignClass "{60FEE967293C6B7E}" {
+     SourceMaterial "M_Zombie_Woomen_Top"
+     AssignedMaterial "{0F9F83E36E4A1DF9}Assets/Bodies/human/Corpses/Zombie/Assets/Data/Female/M_Zombie_Woomen_Top.emat"
+    }
+    MaterialAssignClass "{60FEE967293C6B7B}" {
+     SourceMaterial "M_Zombie_Woomen_Head"
+     AssignedMaterial "{EB2B0C0746E3F350}Assets/Bodies/human/Corpses/Zombie/Assets/Data/Female/M_Zombie_Woomen_Head.emat"
+    }
+    MaterialAssignClass "{60FEE967293C6B67}" {
+     SourceMaterial "M_Zombie_Woomen_Hair"
+     AssignedMaterial "{03499601879E13F0}Assets/Bodies/human/Corpses/Zombie/Assets/Data/Female/M_Zombie_Woomen_Hair.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Woman_on_ground {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Woman_on_ground_COL {
+     LayerPreset "PropFireView"
+     SurfaceProperties {
+      "{DA94EA1EF2914EB7}Common/Materials/Game/flesh.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{60FEE9672C398A9D}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{60FEE9672C398A06}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{60FEE9672C398A6A}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{60FEE9672C3989B5}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{60FEE9672C398991}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{60FEE9672C3989F2}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

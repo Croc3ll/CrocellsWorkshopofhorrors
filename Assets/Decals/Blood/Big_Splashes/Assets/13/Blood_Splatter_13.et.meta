@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FE178638199E7A34}Assets/Decals/Blood/Big_Splashes/12/Blood_Splatter_13.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
